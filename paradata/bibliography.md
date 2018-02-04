@@ -17,3 +17,7 @@ University of Leicester. *Author-date (Harvard)* Available at:https://www2.le.ac
 Valve Developer Community. (2016) *Destinations/Photogrammetry with Regard3D* Available at: https://developer.valvesoftware.com/wiki/Destinations/Photogrammetry_with_Regard3D (Accessed: February 4th, 2018)
 
 Wikipedia. (2018) *The Famous Five (Canada)* Available at: https://en.wikipedia.org/wiki/The_Famous_Five_(Canada) (Accessed: February 4th. 2018)
+
+Wikipedia. (2017) *Louise McKinny* Available at: https://en.wikipedia.org/wiki/Louise_McKinney (Accessed: February 4th, 2018)
+
+
