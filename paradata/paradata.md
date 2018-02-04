@@ -14,36 +14,59 @@ Micro Paradata: the small-scale decision-making processes underlying the constru
 
     What are the basic steps you followed in putting together the resource?
 **Step One**
+
 Start by clearing any snow or debris from the statue that may impact the model
 Ensure you can walk a full 360 around the subject
 Start by opening the SCANN3D app and selecting New Model and the guided photo mode
 Take a photo of the object and begin walking around the model ensuring you try and maximize the "green dots" on the subject as you move around the object taking more and more photos
+
 **Step Two**
+
 Upload the the photos to your computer
+
 **Step Three**
+
 Open EXIF Pilot
 Select your photos from your photoset
 Select a photo and edit its EXIF Pilot by adding a tag titled "Focal Length" and then the fraction value of your cameras focal length
 Edit the Camera Model and Manufacturer so that it is detectable by Regard3d
 Repeat until all photos in the photoset are complete
+
 **Step Four** 
+
 Open Regard3D and create a new project
 Click add picture set
 Drag and drop your photos into regard 3D
 Look at the camera model and camera manufacturer colomns, if they are empty that than means you need to edit the sensor database (Step 5)
+
 **Step Five** 
+
 Create a new text file using a program such as Notepad++ 
 Copy and paste: https://raw.githubusercontent.com/openMVG/CameraSensorSizeDatabase/master/sensor_database.csv into the new text file
 Add the phone model, manufacture and sensor width of the camera in this format: Manufacturer;Model;Width
 Save as: sensor_database.csv
+
 **Step Six** 
+
 Click compute matches
 Select a keypoint sensitivity as ultra or 0.0001
 leave all other settings to default 
 Let it render
+
 **Step Seven**
+
 Begin Triangulation
-Using these settings:
+Using these settings:![tri](https://gyazo.com/72fd5efb069d968b96811db62e8bf2a6)
+
+**Step Eight**
+
+Begin Densification
+Using these settings: ![Dens](https://gyazo.com/b40ab3458496974f2172519624722bb9)
+
+**Step Nine** 
+
+Begin Surface generation
+Using these settings: ![surface](https://gyazo.com/4126ccde76ad898d1b16deeb7e8cb57a)
     What supporting evidence did you rely upon?
 
     How have you acknowledged uncertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences to refer to?
