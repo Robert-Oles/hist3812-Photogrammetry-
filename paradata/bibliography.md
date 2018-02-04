@@ -2,7 +2,9 @@
 
 *Barbara Paterson* (2004) Available at:http://www.heroines.ca/people/paterson.html (Accessed: February 4th, 2018)
 
-Graham, S. (2018) *REGARD3D* Available at: https://electricarchaeology.ca/2018/01/16/regard3d/ (Accessed: February 4th, 2018)
+Graham, S. (2018a) *REGARD3D* Available at: https://electricarchaeology.ca/2018/01/16/regard3d/ (Accessed: February 4th, 2018)
+
+Graham, S. (2018b) *Schedule* Available at: https://shawngraham.github.io/hist3812w18/schedule/ (Accessed: February 4th, 2018) 
 
 markymarc. (2018) *Terry Fox Statue* Available at: https://sketchfab.com/models/06bc2af0fbba49e8a818172c0c620f89 (Accessed: February 4th, 2018)
 
