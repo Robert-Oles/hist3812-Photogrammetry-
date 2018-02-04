@@ -14,7 +14,8 @@ Unfortunately, the model failed to render.
 I continued this process taking a few more complete photosets using the guided function and all resulted in the same failed result. 
 
 So, defeated I began heading home until I stopped at the Tomb of the Unknown solider where I stopped to take a look before I saw the statue of Sir Arthur Currie. I decided to give it one last go before calling it quits and I again took a full 360 photoset containing 28 photos using the guided mode of SCANN3D. This however was a “success” in the sense that it completed a render of the statue that was completely concave. This model will also be available on my GitHub
-#February 4th, 2018
+
+# February 4th, 2018
 After examining examples from the class I saw the awesome render of the Terry Fox Statue in regard3d and decided to give it a try.
 I downloaded the software from: http://www.regard3d.org/index.php/download then installed and transferred my photoset from my Nexus 6p phone over to my computer. 
 
