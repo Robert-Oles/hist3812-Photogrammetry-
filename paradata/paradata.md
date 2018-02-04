@@ -56,17 +56,16 @@ Let it render
 **Step Seven**
 
 Begin Triangulation
-Using these settings:![tri](https://gyazo.com/72fd5efb069d968b96811db62e8bf2a6)
-
+Using these settings:[![https://gyazo.com/72fd5efb069d968b96811db62e8bf2a6](https://i.gyazo.com/72fd5efb069d968b96811db62e8bf2a6.png)](https://gyazo.com/72fd5efb069d968b96811db62e8bf2a6)
 **Step Eight**
 
 Begin Densification
-Using these settings: ![Dens](https://gyazo.com/b40ab3458496974f2172519624722bb9)
+Using these settings: [![https://gyazo.com/b40ab3458496974f2172519624722bb9](https://i.gyazo.com/b40ab3458496974f2172519624722bb9.png)](https://gyazo.com/b40ab3458496974f2172519624722bb9)
 
 **Step Nine** 
 
 Begin Surface generation
-Using these settings: ![surface](https://gyazo.com/4126ccde76ad898d1b16deeb7e8cb57a)
+Using these settings: [![https://gyazo.com/4126ccde76ad898d1b16deeb7e8cb57a](https://i.gyazo.com/4126ccde76ad898d1b16deeb7e8cb57a.png)](https://gyazo.com/4126ccde76ad898d1b16deeb7e8cb57a)
     What supporting evidence did you rely upon?
 
     How have you acknowledged uncertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences to refer to?
