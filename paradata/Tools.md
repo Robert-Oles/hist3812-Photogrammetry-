@@ -1,4 +1,4 @@
-## Downloads of Tools Used in the creation of this model
+### Downloads of Tools Used in the creation of this model
 
 # Regard3d: http://www.regard3d.org/index.php/download
 
