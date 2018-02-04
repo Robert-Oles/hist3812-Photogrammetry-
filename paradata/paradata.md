@@ -43,6 +43,8 @@ Repeat until all photos in the photoset are complete
 
 Open Regard3D and create a new project http://www.regard3d.org/index.php/download
 
+Entire tutorial was referenced from (Regard3d) (Link for the lazy: http://www.regard3d.org/index.php/documentation/tutorial) 
+
 Click add picture set
 
 Drag and drop your photos into regard 3D
