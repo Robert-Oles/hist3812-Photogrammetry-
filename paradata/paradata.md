@@ -11,7 +11,7 @@ This resource can be put to use for demonstrative purpose to show how an individ
 
 **Why have you chosen to use the approach/methods applied?**
     
-This process as informed from a number of sources, firstly, Shawn Graham's lecture materials directed me to the SCANN3D application for the Android OS. This software worked in the sense that it helped in guiding me in taking these photos, but failed completly when trying to render any form of model that looked even remotely close. In the one model that was successfull, it produced a concaved version of the target which is available to view on this github account. However, Regard3d was fantastic as a piece of software that was relativly easy to use to create this software. It is important to note, that it failed to properly calibrate 32 of the 36 "cameras" however it still managed to create a recognizeable partial model that was significantly better than what was produced by SCANN3D
+This process as informed from a number of sources, firstly, Shawn Graham's lecture materials directed me to the SCANN3D application for the Android OS (Graham, 2018b). This software worked in the sense that it helped in guiding me in taking these photos, but failed completly when trying to render any form of model that looked even remotely close. In the one model that was successfull, it produced a concaved version of the target. However, Regard3d was fantastic as a piece of software that was relativly easy to use to create this software. It is important to note, that it failed to properly calibrate 32 of the 36 "cameras" however it still managed to create a recognizeable partial model that was significantly better than what was produced by SCANN3D
 Micro Paradata: the small-scale decision-making processes underlying the construction of the visualisation.
 
 **What are the basic steps you followed in putting together the resource?**
@@ -29,7 +29,7 @@ Upload the the photos to your computer
 
 **Step Three**
 
-Open EXIF Pilot
+Open EXIF Pilot: http://www.colorpilot.com/exif.html
 
 Select your photos from your photoset
 
@@ -41,7 +41,7 @@ Repeat until all photos in the photoset are complete
 
 **Step Four** 
 
-Open Regard3D and create a new project
+Open Regard3D and create a new project http://www.regard3d.org/index.php/download
 
 Click add picture set
 
@@ -51,9 +51,9 @@ Look at the camera model and camera manufacturer colomns, if they are empty that
 
 **Step Five** 
 
-Create a new text file using a program such as Notepad++ 
+Create a new text file using a program such as Notepad++ https://notepad-plus-plus.org/download/v7.5.4.html
 
-Copy and paste: https://raw.githubusercontent.com/openMVG/CameraSensorSizeDatabase/master/sensor_database.csv into the new text file
+Copy and paste: https://raw.githubusercontent.com/openMVG/CameraSensorSizeDatabase/master/sensor_database.csv into the new text file (Valve, 2016)
 
 Add the phone model, manufacture and sensor width of the camera in this format: Manufacturer;Model;Width
 
