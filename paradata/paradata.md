@@ -99,7 +99,7 @@ This project was completed with heavy consultation of various tutorials. A full 
 
 **How have you acknowledged uncertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences to refer to?**
 
-Whats interesting about working with a statue such as this is that my model is now an intrepetation of Barbara Paterson's sculpture which was created from reference images in 1999 (http://www.heroines.ca/people/paterson.html). So realistically this model is not a direct model of Louise McKinny but rather a model of an artists interpretation of them. Furthermore, contextual elements such as snow or lighting may also impact the reliability of the resource. It is important to recognize that the staue on parliament hill is not the only one and that another can be found at St. Albert City Hall and the Ghosts Project in Red Deer both of which are in Alberta. (http://www.heroines.ca/people/paterson.html)  
+Whats interesting about working with a statue such as this is that my model is now an intrepetation of Barbara Paterson's sculpture which was created from reference images in 1999 (Barbara Paterson, 2004). So realistically this model is not a direct model of Louise McKinny but rather a model of an artists interpretation of them. Furthermore, contextual elements such as snow or lighting may also impact the reliability of the resource. It is important to recognize that the staue on parliament hill is not the only one and that another can be found at St. Albert City Hall and the Ghosts Project in Red Deer both of which are in Alberta. (Barbara Paterson, 2004)  
 
 References
 
