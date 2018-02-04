@@ -1,13 +1,13 @@
 # paradata
 Macro Paradata: the big decisions relating to the nature of the visualisation.
 
-    Why has the resource being created and for what audience? _(SG says: interpret this as asking you to tie your work into the big themes, issues, from this course)_
+    Why has the resource being created and for what audience? (SG says: interpret this as asking you to tie your work into the big themes, issues, from this course)
 
     How will the resource be put to use? Is it sustainable and accessible?
     
     This resource can be put to use for demonstrative purpose to show how an individual with small understanding of the finer details of photogrammetry can utilize a blend of commericial and opensource software to create basic 3d models from camera phone photos. As for the sustainablitity and accessiblity of this resource and its creation, it depends. While the process of creating this model relied on using SCANN3D's guided photo mode, a user could likely get similar if not better results taking the photos manually. As for the rest of the software, regard3d remains as an open source software that operates on all three of the major operating systems which means that it is easily acecssible and likely sustainable due to its open source nature. However, EXIF Pilot, the software utilized to alter the metadata of the photoset, is free for download but is impacted by the fact that in order to do "batch" meta data editing it requires a purchase of a plug-in totalling $79.99 USD. This is problematic because it limits this process to the smaller datasets which further impacts the quality of the model.
 
-    Why have you chosen to use the approach/methods applied? _(SG says intrpret this to reflect on your actual process - what worked, what didn't, given the kinds of guidance or advice you've been able to find?)_
+    Why have you chosen to use the approach/methods applied? (SG says intrpret this to reflect on your actual process - what worked, what didn't, given the kinds of guidance or advice you've been able to find?)
     
     This process as informed from a number of sources, firstly, Shawn Graham's lecture materials directed me to the SCANN3D application for the Android OS. This software worked in the sense that it helped in guiding me in taking these photos, but failed completly when trying to render any form of model that looked even remotely close. In the one model that was successfull, it produced a concaved version of the target which is available to view on this github account. However, Regard3d was fantastic as a piece of software that was relativly easy to use to create this software. It is important to note, that it failed to properly calibrate 32 of the 36 "cameras" however it still managed to create a recognizeable partial model that was significantly better than what was produced by SCANN3D
 Micro Paradata: the small-scale decision-making processes underlying the construction of the visualisation.
