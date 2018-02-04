@@ -3,7 +3,7 @@ Macro Paradata: the big decisions relating to the nature of the visualisation.
 
 **Why has the resource being created and for what audience?** 
 
-This resource was created as an example of how individuals with little skill can create models of local sculputres for digital use. Furthermore, it serves as a basic, and incomplete record of the face of Louise Mckinny as depicted by the sculpture created by Barbara Paterson (http://www.heroines.ca/people/paterson.html)
+This resource was created as an example of how individuals with little skill can create models of local sculputres for digital use. Furthermore, it serves as a basic, and incomplete record of the face of Louise Mckinny as depicted by the sculpture created by Barbara Paterson (Barbara Paterson, 2004)
     
 **How will the resource be put to use? Is it sustainable and accessible?**
     
